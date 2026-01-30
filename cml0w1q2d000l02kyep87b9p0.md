@@ -5,7 +5,6 @@ seoDescription: "Learn the basics of network devices including modems, routers, 
 datePublished: Fri Jan 30 2026 12:57:47 GMT+0000 (Coordinated Universal Time)
 cuid: cml0w1q2d000l02kyep87b9p0
 slug: understanding-network-devices-a-simple-overview
-tags: chaiaurcode, chaicode, chaicohort, chai-aur-networking
 
 ---
 
