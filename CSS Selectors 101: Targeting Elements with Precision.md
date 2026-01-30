@@ -9,7 +9,7 @@ tags: css3, chaiaurcode, chaicode, chaicohort, chai-code, chai-aur-css
 
 ---
 
-Hey everyone! So, in my last post, we talked about HTML being the "skeleton" of a website you can check that blog [<mark>here</mark>](https://hashnode.com/post/cml16096a000d02js2vsf7ocv)<mark>.</mark>
+Hey everyone! So, in my last post, we talked about HTML being the "skeleton" of a website you can check that blog [<mark>here</mark>](https://hashnode.com/post/cml15bjvl000602l844tl04cr)<mark>.</mark>
 
 a skeleton without any clothes or style is... well, just a bunch of bones.
 
