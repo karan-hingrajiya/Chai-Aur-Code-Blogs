@@ -1,7 +1,7 @@
 ---
 title: "Emmet for HTML: A Beginner’s Guide to Writing Faster Markup"
 seoTitle: "Boost HTML Speed: A Beginner’s Guide to Emmet"
-seoDescription: "Learn how to speed up HTML markup writing with Emmet. Discover shortcuts and techniques to optimize your coding workflow using this powerful tool"
+seoDescription: "Learn how to speed up HTML markup writing with Emmet. Discover shortcuts and techniques to optimize your coding workflow."
 datePublished: Fri Jan 30 2026 17:36:34 GMT+0000 (Coordinated Universal Time)
 cuid: cml16096a000d02js2vsf7ocv
 slug: emmet-for-html-a-beginners-guide-to-writing-faster-markup
